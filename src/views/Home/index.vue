@@ -322,7 +322,7 @@ export default {
     font-size: 24px;
     position: absolute;
     top: 3%;
-    left: 30px;
+    right: 5.1%;
     z-index: 99;
     cursor: pointer;
     &:hover {
@@ -333,7 +333,7 @@ export default {
     height: 480px;
     position: absolute;
     top: 10%;
-    left: 25px;
+    right: 5%;
     overflow: hidden;
     z-index: 99;
   }
